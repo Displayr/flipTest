@@ -1,3 +1,13 @@
+Title: Functions for extracting and describing data
+Version: 1.1.1
+Author: Displayr <opensource@displayr.com>
+Maintainer: Displayr <opensource@displayr.com>
+Description: Functions for extracting data from formulas and environments,
+    and for describing data, for addressing missing data, and for setting
+    up data in a neat format for other analyses.
+License: GPL-3
+
+
 Package: flipTest
 Type: Package
 Title: Statistical tests

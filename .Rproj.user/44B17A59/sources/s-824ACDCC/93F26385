@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523341705434.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2032103163",
+    "id" : "93F26385",
+    "lastKnownWriteTime" : 1523412135,
+    "last_content_update" : 1523412135978,
+    "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/tests/testthat/test-multinomialproportions.R",
+    "project_path" : "tests/testthat/test-multinomialproportions.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

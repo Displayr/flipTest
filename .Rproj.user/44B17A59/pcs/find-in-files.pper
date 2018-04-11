@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest",
+        "query" : "binomial",
+        "regex" : false
+    }
+}

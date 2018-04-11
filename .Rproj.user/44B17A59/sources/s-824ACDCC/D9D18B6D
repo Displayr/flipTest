@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523341159576.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D9D18B6D",
+    "lastKnownWriteTime" : 1523330749,
+    "last_content_update" : 1523330749,
+    "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/stan_files/binomialproportions.cc",
+    "project_path" : "src/stan_files/binomialproportions.cc",
+    "properties" : {
+        "cursorPosition" : "7,42",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

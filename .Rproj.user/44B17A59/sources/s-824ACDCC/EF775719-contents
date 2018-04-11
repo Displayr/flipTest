@@ -1,0 +1,30 @@
+#' Pearson's Chi-squared Test for Count Data
+#'
+#' \code{chisq.test} performs chi-squared contingency table tests and goodness-of-fit tests. 
+#' @param x A numeric vector or matrix. x and y can also both be factors.
+#' @param y	A numeric vector; ignored if x is a matrix. If x is a factor, y should be a factor of the same length.
+#' @para@export
+x	
+
+
+correct	
+a logical indicating whether to apply continuity correction when computing the test statistic for 2 by 2 tables: one half is subtracted from all |O - E| differences; however, the correction will not be bigger than the differences themselves. No correction is done if simulate.p.value = TRUE.
+p	
+a vector of probabilities of the same length of x. An error is given if any entry of p is negative.
+rescale.p	
+a logical scalar; if TRUE then p is rescaled (if necessary) to sum to 1. If rescale.p is FALSE, and p does not sum to 1, an error is given.
+simulate.p.value	
+a logical indicating whether to compute p-values by Monte Carlo simulation.
+B	
+an integer specifying the number of replicates used in the Monte Carlo test.
+
+
+library(flipFormat)
+x2 <- chisq.test(input.data)
+statistic.value <- x2$statistic
+df <- x2$parameter
+p.value <- x2$p.value
+statistic.name <- "Chi-square"
+SignificanceTest(x2, "Chi-Square Test of Independence", 
+                 data.frame(rep(TRUE, sum(input.data))), 
+                 show.labels = FALSE, decimal.places = 3)
