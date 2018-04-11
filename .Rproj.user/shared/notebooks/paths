@@ -10,5 +10,6 @@ C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/Makevars.win="6923D3
 C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/init.cpp="293D3E8E"
 C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/stan_files/binomialproportions.hpp="3E9E8625"
 C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/stan_files/binomialproportions.stan="3E8B2AB4"
+C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/stan_files/multinomialproportions.stan="7A55A31E"
 C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/tests/testthat/test-binomialproportions.R="C937F15D"
 C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/tests/testthat/test-multinomialproportions.R="CE6D65A7"

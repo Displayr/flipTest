@@ -5,18 +5,18 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3773125683",
+    "hash" : "1432466050",
     "id" : "8D0C1CEA",
-    "lastKnownWriteTime" : 1523415490,
-    "last_content_update" : 1523415490018,
+    "lastKnownWriteTime" : 1523418852,
+    "last_content_update" : 1523418852122,
     "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/tests/testthat/test-binomialproportions.R",
     "project_path" : "tests/testthat/test-binomialproportions.R",
     "properties" : {
-        "cursorPosition" : "14,0",
+        "cursorPosition" : "6,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
-    "relative_order" : 3,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

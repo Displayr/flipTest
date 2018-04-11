@@ -3,7 +3,6 @@ Type: Package
 Title: Statistical tests
 Version: 0.1
 Date: 2018-04-05
-Author: Displayr
 Author: Displayr <opensource@displayr.com>
 Maintainer: Displayr <opensource@displayr.com>
 Description: Wrappers for classical tests and Bayesian tests constructed using Stan.

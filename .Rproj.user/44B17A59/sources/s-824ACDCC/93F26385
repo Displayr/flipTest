@@ -12,11 +12,11 @@
     "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/tests/testthat/test-multinomialproportions.R",
     "project_path" : "tests/testthat/test-multinomialproportions.R",
     "properties" : {
-        "cursorPosition" : "8,0",
+        "cursorPosition" : "6,21",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
-    "relative_order" : 12,
+    "relative_order" : 9,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

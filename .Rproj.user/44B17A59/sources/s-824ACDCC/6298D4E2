@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523416423853.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2039964646",
+    "id" : "6298D4E2",
+    "lastKnownWriteTime" : 1523341627,
+    "last_content_update" : 1523341627,
+    "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/src/Makevars.win",
+    "project_path" : "src/Makevars.win",
+    "properties" : {
+        "cursorPosition" : "5,46",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "makefile"
+}
