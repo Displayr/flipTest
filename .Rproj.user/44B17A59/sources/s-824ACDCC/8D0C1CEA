@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1432466050",
+    "hash" : "0",
     "id" : "8D0C1CEA",
     "lastKnownWriteTime" : 1523418852,
     "last_content_update" : 1523418852122,
     "path" : "C:/Users/tim.NUMDOM2/Dropbox (Personal)/GitHub/flipTest/tests/testthat/test-binomialproportions.R",
     "project_path" : "tests/testthat/test-binomialproportions.R",
     "properties" : {
-        "cursorPosition" : "6,0",
-        "scrollLine" : "0",
+        "cursorPosition" : "19,0",
+        "scrollLine" : "6",
         "tempName" : "Untitled1"
     },
     "relative_order" : 8,
