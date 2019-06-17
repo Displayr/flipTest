@@ -9,6 +9,6 @@ Description: Wrappers for classical tests and Bayesian tests constructed using S
 License: GPL-3
 Depends: R (>= 3.3.0), Rcpp (>= 0.12.15), methods
 Imports: rstan (>= 2.17.2)
-LinkingTo: StanHeaders (>= 2.17.1), rstan (>= 2.17.2), BH (>= 1.65.0.1), Rcpp (>= 0.12.15), RcppEigen (>= 0.3.3.4.0)
+LinkingTo: StanHeaders (== 2.18.1), rstan (>= 2.17.2), BH (>= 1.65.0.1), Rcpp (>= 0.12.15), RcppEigen (>= 0.3.3.4.0)
 RoxygenNote: 6.0.1
 Suggests: testthat
